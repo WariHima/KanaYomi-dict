@@ -5,3 +5,9 @@ en-kana系辞書
 openjtalkで使われているnaist-jdicとunidicのカタカナ語を抽出し英単語カタカナ辞書と合体させたもの。  
 kana系辞書  
 openjtalkで使われているnaist-jdicとunidicのカタカナ語を抽出しひらがなに直したもの  
+
+使用させていただいたもの。  
+英単語カタカナ変換ライブラリ  
+https://github.com/zomysan/alkana.py  
+openjtalkに含まれていた辞書（以下のフォークのものを使用しました。）  
+https://github.com/r9y9/open_jtalk  
