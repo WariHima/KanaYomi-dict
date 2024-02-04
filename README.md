@@ -21,6 +21,9 @@ openjtalkで使われているnaist-jdicかunidicのカタカナ語を抽出し�
 mecab-ipadic-neologdにダミーのアクセントを付けた辞書  
 人名や地名、駅名などを正しい読み方で読めるようになります。  
 
+・kanayomi-dict
+上記の辞書を統合した物
+
 # 使用させていただいたもの。  
 英単語カタカナ変換ライブラリ  
 https://github.com/zomysan/alkana.py  
