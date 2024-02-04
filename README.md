@@ -4,9 +4,9 @@ KanaYomi-dict-liteにGPL2の辞書を除いたものを置く予定です。
 
 # 使い方
 # VoiceVox
-デフォルトのユーザー辞書(voicevox本体のフォルダ/vv-engine/default.csv)をバックアップしておく。
-kanayomi-dict.csvをdefault.csvに名前を変更して置き換える。
-元のdefault.csvに入っているキャラの名前などは正しい読み方で読めなくなります。
+デフォルトのユーザー辞書(voicevox本体のフォルダ/vv-engine/default.csv)をバックアップしておく。  
+kanayomi-dict.csvをdefault.csvに名前を変更して置き換える。  
+元のdefault.csvに入っているキャラの名前などは正しい読み方で読めなくなります。  
 
 # 辞書の説明  
 ・en-kana系辞書  
