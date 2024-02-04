@@ -13,6 +13,6 @@ openjtalkで使われているnaist-jdicかunidicのカタカナ語を抽出し�
 英単語カタカナ変換ライブラリ  
 https://github.com/zomysan/alkana.py  
 mecab-ipadic-neologd  
-https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md　　
+https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md  
 openjtalkに含まれていた辞書（以下のフォークのものを使用しました。）  
 https://github.com/r9y9/open_jtalk  
