@@ -1,0 +1,9 @@
+#mecab ipadic neolgd
+追加の副詞 neologd-adverb-dict-seed.20150623.csv
+追加の感動詞 neologd-interjection-dict-seed.20170216.csv
+一般名詞/固有名詞の表記ゆれ neologd-common-noun-ortho-variant-dict-seed.20170228.csv
+neologd-proper-noun-ortho-variant-dict-seed.20161110.csv
+サ変接続名詞の表記ゆれ neologd-noun-sahen-conn-ortho-variant-dict-seed.20160323.csv
+追加の形容詞 neologd-adjective-std-dict-seed.20151126.csv
+追加の形容動詞 neologd-adjective-verb-dict-seed.20160324.csv
+NSなどで見かける崩れ表記語 neologd-ill-formed-words-dict-seed.20170127.csv

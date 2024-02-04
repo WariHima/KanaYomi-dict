@@ -1,7 +1,6 @@
 
 # Licence GPLv2
 
-import re 
 import csv
 import mojimoji
 
