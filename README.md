@@ -24,6 +24,12 @@ mecab-ipadic-neologdにダミーのアクセントを付けた辞書
 ・kanayomi-dict  
 上記の辞書を統合した物
 
+# これからの予定  
+以下の古い日本語入力用ユーザー辞書の追加  
+麻雀用語辞書  
+三国志人名辞書  
+姓名辞書
+
 # 使用させていただいたもの。  
 英単語カタカナ変換ライブラリ  
 https://github.com/zomysan/alkana.py  
