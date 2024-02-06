@@ -45,6 +45,9 @@ mecab-ipadic-neologdにダミーのアクセントを付けた辞書
 最低限形態素解析に必要なものは1～4。  
 openjtalkは12~14を使用している。  
 
+アクセント位置は0で均等に読む？
+モーラ数は読み方の文字数
+
 参考↓
 https://www.negi.moe/negitalk/openjtalk.html  
 https://taku910.github.io/mecab/dic-detail.html  
