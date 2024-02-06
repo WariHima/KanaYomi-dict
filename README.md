@@ -43,7 +43,7 @@ mecab-ipadic-neologdにダミーのアクセントを付けた辞書
 15.アクセントタイプ  
 
 最低限形態素解析に必要なものは1～4。  
-openjtalkは11~14を使用している。  
+openjtalkは12~14を使用している。  
 
 参考↓
 https://www.negi.moe/negitalk/openjtalk.html  
