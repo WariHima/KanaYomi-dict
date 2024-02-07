@@ -1,3 +1,5 @@
+このソフトウェアを作成するにあたり以下のソフトウェアを使用させていただきました。
+==========================================================================
 Copyright (c) 2009, Nara Institute of Science and Technology, Japan.
 
 All rights reserved.
@@ -99,7 +101,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 /* POSSIBILITY OF SUCH DAMAGE.                                       */
 /* ----------------------------------------------------------------- */
 
-
+==========================================================================
 Copyright (C) 2015-2019 Toshinori Sato (@overlast)
 
       https://github.com/neologd/mecab-ipadic-neologd
@@ -183,3 +185,26 @@ distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+==========================================================================
+三国志人名辞書（機種依存文字除外版） for MS-IME
+https://www.vector.co.jp/soft/data/writing/se090024.html
+ 		Copyright(C) 1998 勝負師まぁくん
+・著作権、配布、免責
+
+この辞書に対する著作権は「勝負師まぁ (Marks)」にあります。
+よって再配布する際には、著作権表示を変更しないこと、オリジナルのアーカイブに含まれるファイルを全て配布することを条件とします。
+また、この辞書に改変を加えた辞書を配布する場合には、出典、作者名を必ず明記してください。
+この辞書を使用したことによって生じたいかなる障害、損害に対しても作者は一切の責任を負わないものとします。
+
+==========================================================================
+牙突式麻雀辞書 for MS-IME
+https://www.vector.co.jp/soft/data/writing/se478203.html
+・著作権、配布、免責
+
+この辞書に対する著作権はわたし「斉藤一」にあります。
+したがって再配布する際には、著作権表示を変更しないこと、オリジナルのアーカイブに含まれるファイルを全て配布することを条件とします。
+また、この辞書に改変を加えた辞書を配布する場合には、出典、作者名を必ず明記してください。
+この辞書を使用したことによって生じたいかなる障害、損害に対しても作者は一切の責任を負わないものとします。
+
+==========================================================================
