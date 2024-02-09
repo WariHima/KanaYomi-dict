@@ -1,7 +1,7 @@
 
 import csv
 
-filename = 'sangokushi.csv'
+filename = 'atok11na.csv'
 
 with open(filename, encoding='utf8') as f:
     csvreader = csv.reader(f)

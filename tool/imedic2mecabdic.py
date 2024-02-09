@@ -2,14 +2,13 @@ import re
 import csv
 import jaconv
 
-filename = 'mjdicmsi.csv'
+filename = 'atok11na.csv'
 
 result = []
 
 with open(filename, encoding='utf8') as f:
     csvreader = csv.reader(f)
     content = [row for row in csvreader] 
-
 
 
 i = 0

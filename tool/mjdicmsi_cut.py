@@ -11,6 +11,7 @@ with open(filename, encoding='utf8') as f:
 i=0
 while not i == len(load_dict):
     v = i
+    #読みがカタカナ以外の物を削除。
     if not re.fullmatch('[ァ-ヴ]*', load_dict[i][11]):
         print("削除行")
         print(load_dict[v])

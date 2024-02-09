@@ -17,6 +17,7 @@ def cost_tyousei(merged_dict = list, load_dict = list):
                 cost = int(load_dict[v][3])
                 cost += 1
                 load_dict[v][3] = cost
+                print("コスト変更")
                 print(load_dict[v])
 
             v += 1
@@ -25,14 +26,25 @@ def cost_tyousei(merged_dict = list, load_dict = list):
     return(load_dict)
 
 out = "kanayomi-dict.csv"
+
 files = [
     "neologd-ipa.csv",
+    "atok11na.csv",
     "sangokushi.csv",
     "mjdicmsi.csv",
     "kana-unidic-csj.csv",
-    "kana-naist-jdic.csv"
-    
+    "kana-naist-jdic.csv",
+    "hiragana-unidic-csj.csv",
+    "hiragana-naist-jdic.csv",
 ]
+
+base = ["unidic-csj.csv","naist-jdic.csv"]
+
+for i in base:
+    with open(i, encoding='utf8') as f:
+        csvreader = csv.reader(f)
+        base_dict = [row for row in csvreader] 
+
 
 i = 0
 merged_dict = []
@@ -48,12 +60,8 @@ while not i == len(files):
         merged_dict = load_dict
         i += 1
         print(i)
-    elif i == 1:
-        merged_dict += load_dict 
-        i += 1
-        print(i)
     else:
-        merged_dict = merged_dict + cost_tyousei(merged_dict,load_dict)
+        merged_dict = merged_dict + cost_tyousei(base_dict,load_dict)
         i += 1
         print(i)
 
