@@ -1,4 +1,4 @@
-# KanaYomi-dict openjtalk形式の多言語カタカナ読み辞書 
+# KanaYomi-dict openjtalk形式のユーザー辞書 
 # 説明  
 この辞書は専門用語や名詞をpyopenjtalkでユーザー辞書として読み込ませる用途で作成しています。  
 複数の読みがある単語がないので単語の連接表が含まれていません。  
