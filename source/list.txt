@@ -1,0 +1,3 @@
+sanime.lzh 三国志人名辞書（機種依存文字除外版） for MS-IME
+mjdicmsi.zip 牙突式麻雀辞書 for MS-IME
+atok11na.lzh Atok11用姓名辞書
