@@ -6,7 +6,7 @@
 要約するとttsで名詞や専門用語を正しい読みで読ませるための辞書です。  
 
 # 使い方
-# VoiceVox
+***VoiceVox**
 デフォルトのユーザー辞書(voicevox本体のフォルダ/vv-engine/default.csv)をバックアップしておく。  
 kanayomi-dict.csvをdefault.csvに名前を変更して置き換える。  
 元のdefault.csvに入っているキャラの名前などは正しい読み方で読めなくなります。  
