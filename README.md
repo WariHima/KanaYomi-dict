@@ -13,12 +13,16 @@ kanayomi-dict.csvをdefault.csvに名前を変更して置き換える。
 
 # 辞書の説明  
 wikiを読んでください
-
-# これからの予定  
-古い日本語入力用ユーザー辞書の追加  
+https://github.com/WariHima/KanaYomi-dict/wiki
 
 # 使用させていただいたもの。  
-mecab-ipadic-neologd  
-https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md  
 openjtalkに含まれていた辞書（以下のフォークのものを使用しました。）  
 https://github.com/r9y9/open_jtalk  
+mecab-ipadic-neologd  
+https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md  
+UNICODE絵文字の日本語読み/キーワード/分類辞書  
+https://github.com/yagays/emoji-ja  
+三国志人名辞書（機種依存文字除外版） for MS-IME  
+https://www.vector.co.jp/soft/data/writing/se090024.html  
+牙突式麻雀辞書 for MS-IME  
+https://www.vector.co.jp/soft/data/writing/se478203.html  
